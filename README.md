@@ -7,8 +7,8 @@ laravel-commands-helper: it's an important code's to help to install laravel and
 
 ----------------------------
 
-GitHub user: mr-khof
-Creator: mr.khof
+GitHub user: mr-khof   
+Creator: mr.khof   
 Instagram: @mr.khof
 
 ----------------------------
