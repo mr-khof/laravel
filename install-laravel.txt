@@ -1,0 +1,35 @@
+require: install-composer
+require: lastest version of php (8.1.2)
+require: lastest version of xampp (8.1.2)
+
+there is 2 plan to install laravel.
+
+plan 1 (install via composer): open cmd and run this command's:
+
+{
+composer create-project laravel/laravel example-app
+
+cd example-app
+
+php artisan serve
+}
+
+plan 2 (install via laravel installer): open cmd and run this command's:
+
+{
+composer global require laravel/installer
+
+laravel new example-app
+
+cd example-app
+
+php artisan serve
+}
+
+----------------------------
+
+GitHub user: mr-khof
+Creator: mr.khof
+Instagram: @mr.khof
+
+----------------------------
